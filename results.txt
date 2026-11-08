@@ -1,0 +1,1 @@
+2026-11-08 16:46:20 | Initially selected box: 7 | Final box: 7 | Prize: 18000 | Swapped: No | Banker deal: Yes (Rs. 18000) | Features: 50:50, Prize Peek, Mystery Box, Lucky Spin | Bonus cash: +1500 | Multiplier: x1.00 | Double or Nothing: Not played | Total won: 19500
